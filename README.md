@@ -1,6 +1,6 @@
-#Music-app
+# Music-app
 MVP of music app
 
-##Installation
+## Installation
 
 Just pull it, and install dependencies via `npm install`
