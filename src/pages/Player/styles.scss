@@ -1,0 +1,29 @@
+.audio-player {
+  background: white;
+  position: fixed;
+  bottom: 56px;
+  width: 100%;
+  border-bottom: 1px solid #e2e2e2;
+  &.hidden {
+    height: 0;
+    opacity: 0;
+  }
+
+  &_controls {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+
+    .play, .pause {
+      cursor: pointer;
+      margin-left: 5px;
+      margin-right: 10px;
+      font-size: 36px;
+    }
+  }
+
+  &_album-image {
+    width: 40px;
+    border-radius: 5px;
+  }
+}

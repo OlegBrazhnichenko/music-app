@@ -1,0 +1,37 @@
+[
+  {
+    "id":"0",
+    "author":"test author",
+    "title":"Some song",
+    "url":"Some song url",
+    "albumImage":"url to album image"
+  },
+  {
+    "id":"1",
+    "author":"test author",
+    "title":"Some song",
+    "url":"Some song url",
+    "albumImage":"url to album image"
+  },
+  {
+    "id":"2",
+    "author":"test author",
+    "title":"Some song",
+    "url":"Some song url",
+    "albumImage":"url to album image"
+  },
+  {
+    "id":"3",
+    "author":"test author",
+    "title":"Some song",
+    "url":"Some song url",
+    "albumImage":"url to album image"
+  },
+  {
+    "id":"4",
+    "author":"test author",
+    "title":"Some song",
+    "url":"Some song url",
+    "albumImage":"url to album image"
+  }
+]

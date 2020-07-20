@@ -1,0 +1,10 @@
+.header {
+  &.MuiAppBar-colorPrimary {
+    background-color: white;
+  }
+  background: white;
+  padding: 10px 0;
+  &_title {
+    color: #3f51b5;
+  }
+}

@@ -1,0 +1,21 @@
+.songs-list {
+  padding: 15px 0;
+  &_item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: white;
+    margin: 5px 0;
+    overflow: hidden;
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    cursor: pointer;
+    &_album-image {
+      width: 60px;
+      height: 60px;
+      object-fit: contain;
+      margin-right: 10px;
+      border-radius: 5px;
+    }
+  }
+}
